@@ -6,6 +6,7 @@ Who?
 I'm Federico, a passionate softwate engineer looking forward for new challenges. 
 Always happy to help, eager to travel and excited to learn new things.
 
+
 Where?
 ------
 I was born in [Bahía Blanca, Argentina 🇦🇷️](https://goo.gl/maps/yCJYkgUgTPEzmUKaA).
@@ -26,13 +27,12 @@ My favorite things to code are:
 * useful bots/automation
 * web scraping
 
-I also like practice photography and cooking on my free time.
+I also like to practice photography and cooking on my free time.
 
 
 When?
 -----
 For a 🍺️? Anytime!
-
 
 
 
@@ -70,7 +70,9 @@ Python wrapper for genius.com's API.
 * [![Quality Gate Status](https://img.shields.io/sonar/alert_status/fedecalendino_wrap-genius?logo=sonarcloud&server=https://sonarcloud.io)](https://sonarcloud.io/dashboard?id=fedecalendino_wrap-genius)
 * [![CodeCoverage](https://img.shields.io/codecov/c/gh/fedecalendino/wrap-genius?logo=codecov)](https://codecov.io/gh/fedecalendino/wrap-genius)
 
+
 __________
+
 
 Links
 ==========
