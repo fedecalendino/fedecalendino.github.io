@@ -12,6 +12,7 @@ I was born in [Bahía Blanca, Argentina 🇦🇷️](https://goo.gl/maps/yCJYkgU
 
 I'm currently living in [Prague, Czech Republic 🇨🇿️](https://goo.gl/maps/zuu1k8Wq6HZSK47G9).
 
+
 What?
 -----
 My favorite things to code are:
@@ -24,6 +25,9 @@ My favorite things to code are:
 * scripting
 * useful bots/automation
 * web scraping
+
+I also like practice photography and cooking on my free time.
+
 
 When?
 -----
