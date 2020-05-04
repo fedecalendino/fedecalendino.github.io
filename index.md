@@ -8,8 +8,9 @@ Always happy to help, eager to travel and excited to learn new things.
 
 Where?
 ------
-I was born in Bahía Blanca, Argentina 🇦🇷️.
-I'm currently viving in Prague, Czech Republic 🇨🇿️.
+I was born in [Bahía Blanca, Argentina 🇦🇷️](https://goo.gl/maps/yCJYkgUgTPEzmUKaA).
+
+I'm currently living in [Prague, Czech Republic 🇨🇿️](https://goo.gl/maps/zuu1k8Wq6HZSK47G9).
 
 What?
 -----
