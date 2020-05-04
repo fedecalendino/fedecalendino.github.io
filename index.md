@@ -1,13 +1,38 @@
+About Me
+================
+
+Who?
+----
 I'm Federico, a passionate softwate engineer looking forward for new challenges. 
 Always happy to help, eager to travel and excited to learn new things.
 
+Where?
+------
+I was born in Bahía Blanca, Argentina 🇦🇷️.
+I'm currently viving in Prague, Czech Republic 🇨🇿️.
 
-Born in Bahía Blanca 🇦🇷️, 
-Living in Prague 🇨🇿️.
+What?
+-----
+My favorite things to code are:
+
+* clean / readable code
+* design patterns
+* library development
+* refactoring
+* restful apis
+* scripting
+* useful bots/automation
+* web scraping
+
+When?
+-----
+For a 🍺️? Anytime!
 
 
-Current projects
-================
+
+
+Current personal projects
+=========================
 
 nintendeals
 -----------
@@ -45,7 +70,7 @@ __________
 Links
 ==========
 
-* [:email: Email](mailto:federico@calendino.com)
-* [:octocat: GitHub](https://www.github.com/fedecalendino)
-* [:busts_in_silhouette: LinkedIn](https://www.linkedin.com/in/fedecalendino)
-* [:coffee: Buy Me a Coffee](https://www.buymeacoffee.com/fede)
+* [✉️ Email](mailto:federico@calendino.com)
+* [💻️ GitHub](https://www.github.com/fedecalendino)
+* [👥️ LinkedIn](https://www.linkedin.com/in/fedecalendino)
+* [☕️ Buy Me a Coffee](https://www.buymeacoffee.com/fede)
