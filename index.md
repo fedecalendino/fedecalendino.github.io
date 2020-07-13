@@ -80,4 +80,5 @@ Links
 * [✉️ Email](mailto:federico@calendino.com)
 * [💻️ GitHub](https://www.github.com/fedecalendino)
 * [👥️ LinkedIn](https://www.linkedin.com/in/fedecalendino)
+* [📷️ Flickr](https://www.flickr.com/photos/fedecalendino)
 * [☕️ Buy Me a Coffee](https://www.buymeacoffee.com/fede)
