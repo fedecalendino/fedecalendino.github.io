@@ -3,35 +3,43 @@ About Me
 
 Who?
 ----
-I'm Federico, a passionate softwate engineer looking forward for new challenges. 
-Always happy to help, eager to travel and excited to learn new things.
+
+I'm a passionate software engineer with a focus on backend development, looking to drive my career into data science. I enjoy scripting, code generation, automation, and web scraping. Always happy to help, eager to travel, and excited to learn new things.
+
 
 
 Where?
 ------
-I was born in [Bahía Blanca, Argentina 🇦🇷️](https://goo.gl/maps/yCJYkgUgTPEzmUKaA).
+
+I'm from [Bahía Blanca, Argentina 🇦🇷️](https://goo.gl/maps/yCJYkgUgTPEzmUKaA).
 
 I'm currently living in [Prague, Czech Republic 🇨🇿️](https://goo.gl/maps/zuu1k8Wq6HZSK47G9).
+
 
 
 What?
 -----
 My favorite things to code are:
 
-* clean / readable code
+* bot development
+* clean code
+* code generation
+* data science
 * design patterns
-* library development
 * refactoring
 * restful apis
 * scripting
-* useful bots/automation
+* third party integrations
+* tool creation
 * web scraping
 
 I also like to practice photography and cooking on my free time.
 
 
+
 When?
 -----
+
 For a 🍺️? Anytime!
 
 
@@ -77,8 +85,7 @@ __________
 Links
 ==========
 
-* [✉️ Email](mailto:federico@calendino.com)
-* [💻️ GitHub](https://www.github.com/fedecalendino)
-* [👥️ LinkedIn](https://www.linkedin.com/in/fedecalendino)
-* [📷️ Flickr](https://www.flickr.com/photos/fedecalendino)
-* [☕️ Buy Me a Coffee](https://www.buymeacoffee.com/fede)
+* [✉️ Email](mailto:fede@calendino.com)
+* [💻️ GitHub](https://github.com/fedecalendino)
+* [👥️ LinkedIn](https://linkedin.com/in/fedecalendino)
+* [📷️ Flickr](https://flickr.com/photos/fedecalendino)
